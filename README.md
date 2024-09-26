@@ -26,3 +26,4 @@ In your solution you must provide the following in your Github link account:
       Problem statement (description of the problem. Just copy what is stated here).
       UML Class Diagram
       Uploaded java codes for the solution.
+![Diagram](https://github.com/bgduque/Lab_Assignment_3_Adapter_Pattern/blob/main/Blank%20diagram(1).png)
